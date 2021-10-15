@@ -1,3 +1,5 @@
 #ignore all files starting with dummy
 dummy.*
+
+#ignore all files with class extension
 *.class
